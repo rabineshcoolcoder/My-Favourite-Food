@@ -1,0 +1,76 @@
+img
+{
+    width: 700px;
+
+
+}
+
+body
+{
+    text-align: center;
+    background-color: darksalmon;
+
+}
+
+.contacts1 h3
+{
+
+    display: inline;
+
+}
+
+#ff
+{
+
+    background-color: coral;
+    color: darkmagenta;
+}
+
+#hf
+{
+
+    background-color: bisque;
+    color: darkolivegreen;
+
+}
+
+#menu
+{
+
+    background-color: cornflowerblue;
+    color: darkslategrey;
+}
+
+#snacks
+{
+
+    background-color: hotpink;
+    color: rgb(5, 6, 88)
+
+}
+
+#contacts
+{
+
+    background-color: aquamarine;
+    color: darkgoldenrod;
+
+}
+
+h1
+{
+
+    border-style: dashed;
+    border-width: 5px;
+    border-color: white;
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+}
+
+h2
+{
+
+    font-size: 30px;
+
+}
+
